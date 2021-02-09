@@ -42,8 +42,8 @@
 
 pkgbase=ttf-ms-win10
 pkgname=($pkgbase{,-japanese,-korean,-sea,-thai,-zh_cn,-zh_tw,-other})
-pkgver=10.0.18362.116
-pkgrel=2
+pkgver=10.0.19042.789
+pkgrel=1
 arch=(any)
 url='http://www.microsoft.com/typography/fonts/product.aspx?PID=164'
 license=(custom)
